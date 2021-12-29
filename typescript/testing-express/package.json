@@ -11,7 +11,7 @@
     "singleQuote": true
   },
   "dependencies": {
-    "@prisma/client": "3.8.0-dev.24",
+    "@prisma/client": "3.8.0-dev.25",
     "@types/node": "16.11.17",
     "express": "4.17.2"
   },
@@ -23,7 +23,7 @@
     "jest": "27.4.5",
     "jest-environment-node": "27.4.4",
     "nanoid": "3.1.30",
-    "prisma": "3.8.0-dev.24",
+    "prisma": "3.8.0-dev.25",
     "supertest": "6.1.6",
     "ts-jest": "27.1.2",
     "ts-node": "10.4.0",
